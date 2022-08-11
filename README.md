@@ -10,7 +10,7 @@ For some of the models, a brief explanation has been provided.
 
 You can simply download the notebook and check it out for yourself. My kaggle profile is linked here: https://www.kaggle.com/laraibishere Follow along to see my ongoing work :)
 
- #key lessons
+# key lessons
  In this project, we learn the following:
  -> Filter categorical data
  -> Banding of continuous data
@@ -19,10 +19,10 @@ You can simply download the notebook and check it out for yourself. My kaggle pr
  -> Plotting grids of data for better visualization
  -> Comparing the performance of various ML algorithms (scoring)
 
- #key skills
- -> Analyzing complex data (categorical, continuous, discrete features)
- -> Visualizing relevant data to draw conclusions
- -> Basic implementation of ML algorithms
+# key skills
+-> Analyzing complex data (categorical, continuous, discrete features)
+-> Visualizing relevant data to draw conclusions
+-> Basic implementation of ML algorithms
 
  #types of ML algorithms used
  -> Gradient Descent
