@@ -19,17 +19,17 @@ You can simply download the notebook and check it out for yourself. My kaggle pr
     -> Plotting grids of data for better visualization
     -> Comparing the performance of various ML algorithms (scoring)
 
-# key skills
--> Analyzing complex data (categorical, continuous, discrete features)
--> Visualizing relevant data to draw conclusions
--> Basic implementation of ML algorithms
+    # key skills
+    -> Analyzing complex data (categorical, continuous, discrete features)
+    -> Visualizing relevant data to draw conclusions
+    -> Basic implementation of ML algorithms
 
- #types of ML algorithms used
- -> Gradient Descent
- -> Perceptron
- -> Random Forest
- -> Decision Tree
- -> SVM
- -> K-Nearest Neighbor
- -> Naive Bayes
+    #types of ML algorithms used
+    -> Gradient Descent
+    -> Perceptron
+    -> Random Forest
+    -> Decision Tree
+    -> SVM
+    -> K-Nearest Neighbor
+    -> Naive Bayes
 
